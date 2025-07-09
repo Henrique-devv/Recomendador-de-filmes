@@ -134,8 +134,6 @@ Histórico de recomendações:
 
 ![que_horas_ela_volta](https://github.com/user-attachments/assets/3b393b57-cc1d-4c52-bcd8-77efb67796f6)
 
-![fallback](https://github.com/user-attachments/assets/829d0113-5cd5-472e-b5fb-822b93c27262)
-
 ![dona_flor](https://github.com/user-attachments/assets/0dd0090c-10e2-4601-a352-2843d521896e)
 
 ![cidade_de_deus](https://github.com/user-attachments/assets/6936177c-2a26-40bd-af8c-6776e973f548)
